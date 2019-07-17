@@ -1,0 +1,21 @@
+{
+  "name": "@pasta-starters/parcel-ts-tailwind",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Govea <david@govea.tech>",
+  "license": "MIT",
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^1.2.0",
+    "parcel-bundler": "^1.12.3",
+    "parcel-plugin-static-files-copy": "^2.1.2",
+    "posthtml-include": "^1.2.0",
+    "tailwindcss": "^1.0.5",
+    "tslint": "^5.18.0",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.5.3"
+  }
+}
